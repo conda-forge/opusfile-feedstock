@@ -13,7 +13,7 @@ source:
     - 0001-Disable-GNU_SOURCE.patch
 
 build:
-  number: 0
+  number: 1
   skip: true  # [win]
 
 requirements:
