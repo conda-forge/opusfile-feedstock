@@ -28,10 +28,6 @@ requirements:
     - libopus
     - libogg
     - openssl
-  run:
-    - libopus
-    - libogg
-    - openssl
 
 test:
   commands:
