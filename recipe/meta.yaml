@@ -1,12 +1,11 @@
-{% set name = "opusfile" %}
 {% set version = "0.12" %}
 
 package:
-  name: {{ name }}
+  name: opusfile
   version: {{ version }}
 
 source:
-  url: https://ftp.osuosl.org/pub/xiph/releases/opus/{{ name }}-{{ version }}.tar.gz
+  url: https://ftp.osuosl.org/pub/xiph/releases/opus/opusfile-{{ version }}.tar.gz
   sha256: 118d8601c12dd6a44f52423e68ca9083cc9f2bfe72da7a8c1acb22a80ae3550b
   patches:
     # https://github.com/conda/conda-build/issues/3165
