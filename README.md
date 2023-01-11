@@ -233,4 +233,5 @@ Feedstock Maintainers
 =====================
 
 * [@asafkahlon](https://github.com/asafkahlon/)
+* [@h-vetinari](https://github.com/h-vetinari/)
 
